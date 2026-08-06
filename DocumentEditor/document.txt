@@ -1,3 +1,0 @@
-This is new docuemnt
-[image: picture.png]
-I am learning LLD	This is document editor following SOLID principles!
